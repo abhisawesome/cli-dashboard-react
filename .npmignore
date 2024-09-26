@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But don't ignore these files & folders
+!/bin/**
+!/dist/**
+!package.json
+!README.md
